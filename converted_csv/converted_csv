@@ -1,0 +1,4 @@
+import numpy as np
+data = np.load("converted_csv/train_sequences_seq30.npz")
+X = data["X"]; y = data["y"]
+print(X.shape, y.shape)
