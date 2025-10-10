@@ -9,3 +9,4 @@ __pycache__/
 converted_csv/
 models/
 .DS_Store
+venv/ 
